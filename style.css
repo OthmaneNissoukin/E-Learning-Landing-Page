@@ -543,7 +543,7 @@ section.feedback div:first-child img {
 
 section.feedback div.feed {
     width: 350px;
-
+    padding: 0px 20px;
 }
 
 section.feedback div.feed h4 {
