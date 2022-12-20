@@ -129,6 +129,12 @@ section div.land-content {
     }
 }
 
+@media (max-width: 450px) {
+    section div.land-content {
+        background-position: 0%;
+    }
+}
+
 section.landing div.search {
     padding: 20px;
     color: #FFF;
